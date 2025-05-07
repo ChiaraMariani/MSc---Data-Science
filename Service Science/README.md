@@ -8,8 +8,8 @@ DressApp also lets you explore other people's wardrobe, as well as shop from you
 
 A small mockup of DressApp is available here: https://readymag.website/u3849747717/5169269/ (keep in mind this was just a prototype to test assumptions)
 
-Important notice: the App Mockup only works when opening the link from a smartphone!
+**Important notice:** the App Mockup only works when opening the link from a smartphone!
 
 DressApp interacts with brands through DressAds, its Advertisement and market research platform. Given the amount of granular data DressApp has, coupled with the fact that most DressApp users are not interested in fashion, the potential to reach new customers with an unprecedented personalisation is limitless. A small MVP of DressAds can be found here instead: https://readymag.website/u3555102290/5161943/
 
-Important notice: the WebPage Mockup only works when opening the link from a pc, not a mobile device!
+**Important notice:** the WebPage Mockup only works when opening the link from a pc, not a mobile device!
